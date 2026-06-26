@@ -13,7 +13,7 @@ CodeSage is a next-generation VS Code extension powered by **Anthropic Claude**.
 Unlike traditional copilot tools that only read the currently open file, CodeSage uses **Tree-sitter** to parse the Abstract Syntax Tree (AST) of your entire repository, generating semantic embeddings stored in a local **Vector Database (ChromaDB)**.
 
 <p align="center">
-  <img src="assets/completion_mockup.png" alt="CodeSage Inline Completion" width="800"/>
+  <img src="" alt="CodeSage Inline Completion" width="800"/>
 </p>
 
 ##  Features
