@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/ui_mockup.png" alt="CodeSage Chat UI" width="800"/>
+  <img src="" alt="CodeSage Chat UI" width="800"/>
 </p>
 
 ## Overview
